@@ -31,7 +31,7 @@ This is a full-stack e-commerce web application built using the **MERN stack (Mo
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/E-commerce-store.git
+git clone https://github.com/Akshatjain5868/e-commerce-MERN.git
 cd E-commerce-store
 ```
 
